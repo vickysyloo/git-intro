@@ -1,2 +1,2 @@
 # Inception
-# Practice with using commits.
+Practice with using commits.
